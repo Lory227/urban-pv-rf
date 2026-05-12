@@ -3,7 +3,7 @@ This repository contains selected MATLAB source code from my PhD research on urb
 
 The full reproducible research archive, including large LiDAR/DSM, geospatial, and associated input/output materials, is hosted on the 4TU Research Data repository:
 
-DOI: 10.4121/136d3808-cb58-4276-8d5b-4a4e2cd5e38c
+https://data.4tu.nl/datasets/136d3808-cb58-4276-8d5b-4a4e2cd5e38c/1
 
 Due to the size of the original spatial datasets, this GitHub repository does not include the full input data. Instead, it provides the main scripts and workflow documentation to illustrate the implementation approach.
 
