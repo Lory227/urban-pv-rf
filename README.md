@@ -76,7 +76,9 @@ All input data are stored in the folder `INPUTS`.
 
 ---
 
-**Citation Required**: If you are using the code from this work, please cite the corresponding publication (to be updated, currently under review).
+**Citation Required**: If you are using the code from this work, please cite the corresponding publication:
+
+Y. Zhou, S. Marathera, M. Zeman, O. Isabella, and H. Ziar, Assessing the dual radiative consequences of urban PV integration: albedo change and radiative forcing dynamics, Applied Energy 401, 126544 (2025). (DOI: https://doi.org/10.1016/j.apenergy.2025.126544)
 
 **Acknowledgements to external data and tools**: 
 - SMARTS model by NREL (https://www.nrel.gov/grid/solar-resource/smarts):
